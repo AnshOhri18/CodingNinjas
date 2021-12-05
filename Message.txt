@@ -1,0 +1,3 @@
+This repository contains all my personal notes, Course notes, and codes of 
+Coding Ninjas course :-
+C++ Foundation and DSA
